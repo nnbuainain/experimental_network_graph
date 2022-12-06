@@ -10,11 +10,11 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "SSpecies Network"
+    "title": "Species Network"
   },
   "legend": {
     "edgeLabel": "Shared Species",
-    "colorLabel": "Proportion of protected area",
+    "colorLabel": "Elevation (m)",
     "nodeLabel": "Sites"
   },
   "features": {

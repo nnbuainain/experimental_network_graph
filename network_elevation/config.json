@@ -10,11 +10,11 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "Species Network"
+    "title": "SSpecies Network"
   },
   "legend": {
     "edgeLabel": "Shared Species",
-    "colorLabel": "Elevation",
+    "colorLabel": "Proportion of protected area",
     "nodeLabel": "Sites"
   },
   "features": {
@@ -33,17 +33,17 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#fff",
-      "labelThreshold": 10,
+      "labelThreshold": 5,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 4,
+      "maxEdgeSize": 0.8,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 20
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
